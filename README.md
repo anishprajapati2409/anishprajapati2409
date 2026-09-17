@@ -31,7 +31,7 @@ I'm a BCA student at Chhatrapati Shahu Ji Maharaj University (CSJMU), Kanpur, in
 
 ### 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: www.linkedin.com/in/anish-prajapati-bca
 - GitHub: https://github.com/anishprajapati2409
 
 ---
