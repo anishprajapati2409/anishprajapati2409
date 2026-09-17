@@ -1,5 +1,42 @@
 # 💫 About Me:
-🔭 I’m currently in the third year of BCA <br>👯 I’m interested to learn new skill<br>🤝 I’m looking for help with<br>🌱 I’m currently learning java python<br>💬 Ask me about hey my name is anish prajapati ,<br>currently am final year student of chhatrapati shahu ji mahraj university kanpur <br>
+# Hi, I'm Anish Prajapati 👋
+
+### BCA Student | Python & Java Developer | Web Development | AI Enthusiast
+
+I'm a BCA student at Chhatrapati Shahu Ji Maharaj University (CSJMU), Kanpur, interested in software development, web technologies and artificial intelligence.
+
+### 🚀 Currently Learning
+
+- Python
+- Java
+- C / C++
+- HTML, CSS & JavaScript
+- SQL & DBMS
+- Data Structures & Algorithms
+- Artificial Intelligence
+
+### 🛠️ Projects
+
+- 🏥 Hospital Management System
+- 🤖 KYZERO AI — AI-powered platform concept
+- 🏦 Bank Management System
+
+### 🎯 Goals
+
+- Build practical software projects
+- Improve problem-solving skills
+- Learn modern AI technologies
+- Gain industry experience
+- Grow as a Software Developer
+
+### 📫 Connect With Me
+
+- LinkedIn: Add your LinkedIn profile link here
+- GitHub: https://github.com/anishprajapati2409
+
+---
+
+⭐ BUILD • LEARN • CREATE <br>
 
 
 ## 🌐 Socials:
