@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Hi, I'm Anish Prajapati 👋
 
-### BCA Student | Python & Java Developer | Web Development | AI Enthusiast
+### BCA Student | Python , Java | Web Development | AI 
 
 I'm a BCA student at Chhatrapati Shahu Ji Maharaj University (CSJMU), Kanpur, interested in software development, web technologies and artificial intelligence.
 
