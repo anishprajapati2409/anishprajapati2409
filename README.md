@@ -1,25 +1,18 @@
 # 💫 About Me:
 # Hi, I'm Anish Prajapati 👋
 
-### BCA Student | Python , Java | Web Development | AI 
+### BCA Student | Python | Web Development | AI 
 
-I'm a BCA student at Chhatrapati Shahu Ji Maharaj University (CSJMU), Kanpur, interested in software development, web technologies and artificial intelligence.
+I'm a BCA student at Chhatrapati Shahu Ji Maharaj University (CSJMU), Kanpur, interested in web technologies and artificial intelligence.
 
 ### 🚀 Currently Learning
 
 - Python
-- Java
 - C / C++
 - HTML, CSS & JavaScript
 - SQL & DBMS
 - Data Structures & Algorithms
 - Artificial Intelligence
-
-### 🛠️ Projects
-
-- 🏥 Hospital Management System
-- 🤖 KYZERO AI — AI-powered platform concept
-- 🏦 Bank Management System
 
 ### 🎯 Goals
 
@@ -27,7 +20,6 @@ I'm a BCA student at Chhatrapati Shahu Ji Maharaj University (CSJMU), Kanpur, in
 - Improve problem-solving skills
 - Learn modern AI technologies
 - Gain industry experience
-- Grow as a Software Developer
 
 ### 📫 Connect With Me
 
